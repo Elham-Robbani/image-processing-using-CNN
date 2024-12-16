@@ -59,8 +59,8 @@ Add your model's performance metrics here, such as:
 Include confusion matrices, loss graphs, or example predictions as applicable.
 
 ## Links
-- [Dateset URl link]([https://drive.google.com/drive/folders/1weohtLncBZtJu3K7Nxg_lhG1Di31HwBx?usp=sharing](https://drive.google.com/drive/folders/18kJQaZ7fjqd9CWchJXKu8jys7Pj0fN4T?usp=sharing))
-- [My Medium Blog for this project]([https://medium.com/@saminyeaser1/image-classification-using-cnn-d1c4f27cc700](https://medium.com/@mdelhamrobbani/image-classification-using-cnn-d9f8271db4ec))
+- [Dateset URl link](https://drive.google.com/drive/folders/18kJQaZ7fjqd9CWchJXKu8jys7Pj0fN4T?usp=sharing)
+- [My Medium Blog for this project](https://medium.com/@mdelhamrobbani/image-classification-using-cnn-d9f8271db4ec)
 
 ## Acknowledgments
 - TensorFlow/Keras for providing a robust deep learning framework.
